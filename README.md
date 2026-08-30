@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Sai Dheeraj Gollu 👋</h1>
-<p align="center"><b>Systems engineer who gets uneasy when things merely <i>look</i> fine.</b></p>
+<p align="center"><b>Software Engineer & AI Engineer · Open to full-time opportunities (F1 OPT)</b></p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat" alt="Open to Work">
   <a href="https://linkedin.com/in/sai-dheeraj-gollu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://saidheerajgollu.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:gollusaidheeraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
@@ -11,18 +12,21 @@
 
 ### About Me
 
-Most of my career has been chasing the bug that only shows up on fire #6,670 — a log row that quietly rewrites itself into a 14MB JSON blob, a Kafka message that vanishes once in ten thousand, a single third-party API outage that shouldn't have taken the whole pipeline down with it but did. I build backend and distributed systems for a living, and then, mostly for fun, I go find the same disease living in other people's codebases.
+I'm a Software Engineer and AI Engineer based in San Jose, CA, currently on **F1 OPT** and actively looking for full-time Software Engineer / AI Engineer roles.
 
-Right now that means shipping fintech infrastructure at **Altrion**, sustaining over a million points a second with zero data loss in a C++ engine I'm building from scratch, and finishing an M.S. in Software Engineering at San José State University. In between, I read production code that isn't mine and occasionally fix what's wrong with it — four merged PRs into Andrew Ng's `openworker`, an accessibility fix into a 30k★ UI library, and a diagnosis + credited fix for a data-loss bug in an agent harness with 14k stars.
+I'm finishing my **M.S. in Software Engineering at San José State University** (May 2026), and working full-time as a **Software Engineer at Altrion.ai**, building fintech backend infrastructure in Python/FastAPI and React/TypeScript. Before that, I spent two years building distributed Java microservices at Aviac Technologies.
+
+My focus is backend and distributed systems, and applied AI — RAG pipelines, agentic tool-use harnesses, and the Claude/LangChain stack. I also contribute fixes to open-source projects on the side: four merged PRs into Andrew Ng's `openworker`, a merged accessibility fix in a 30k★ UI library, and a diagnosis + credited fix for a data-loss bug in a 14k★ agent harness.
 
 ---
 
 ### Right Now
 
-- 🏗️ Building the multi-provider data layer at **Altrion** — Plaid, Coinbase, Stripe, Moralis DeFi, 200+ financial instruments, sub-200ms under concurrent load
-- ⚙️ Pushing **1.1M points/sec** through [TSDLite](https://github.com/Saidheerajgollu/tsdlite) with zero data loss under 8x burst overload
-- 🎓 Finishing an M.S. in Software Engineering at San José State University — May 2026
-- 🔍 Reading other people's production code and occasionally fixing what's silently broken in it
+- 💼 Software Engineer at **Altrion.ai** — multi-provider fintech data layer (Plaid, Coinbase, Stripe, Moralis DeFi), 200+ financial instruments, sub-200ms under concurrent load
+- 🎓 M.S. Software Engineering, San José State University — May 2026
+- 🛂 On F1 OPT, open to full-time **Software Engineer** / **AI Engineer** roles
+- ⚙️ Building [TSDLite](https://github.com/Saidheerajgollu/tsdlite) on the side — 1.1M points/sec, zero data loss
+- 🔍 Contributing fixes to production AI/OSS codebases (see below)
 
 ---
 
