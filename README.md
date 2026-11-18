@@ -1,9 +1,6 @@
 # Hi, I'm Sai Dheeraj Gollu
 
-Software engineer in San Jose, CA, working on backend systems and applied AI.\
-M.S. in Software Engineering from San José State University (May 2026).\
-Looking for full-time Software Engineer or AI Engineer roles.\
-On F1 OPT, open to relocation and onsite, hybrid or remote work.
+I'm a software engineer in San Jose, CA, working on backend systems and applied AI, and I finished my M.S. in Software Engineering at San José State University in May 2026. I'm looking for full-time Software Engineer or AI Engineer roles. I'm on F1 OPT and open to relocation and to onsite, hybrid or remote work.
 
 ### Experience
 
