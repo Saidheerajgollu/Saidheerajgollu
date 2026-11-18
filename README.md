@@ -8,10 +8,10 @@ Software engineer in San Jose, CA. I work on backend systems and applied AI.
 
 ### Experience
 
-**Software Engineer · Altrion** (Jul 2026 – Present, San Jose, CA)
+**Software Engineer · Altrion** (Jul 2026 – Present, San Jose, CA)\
 Fintech backend in Python/FastAPI and React/TypeScript, shipped weekly to AWS. Built the integration layer for 10+ APIs (Plaid, Coinbase, Stripe, Moralis) so one provider outage doesn't take down the pipeline.
 
-**Software Engineer · Aviac Technologies** (Jan 2022 – Dec 2023, India)
+**Software Engineer · Aviac Technologies** (Jan 2022 – Dec 2023, India)\
 Java/Spring Boot microservices. Cut API response time 30%, fixed a Kafka message-drop bug with idempotent consumers and dead-letter routing, and raised test coverage from 40% to 90%.
 
 ### Open source
