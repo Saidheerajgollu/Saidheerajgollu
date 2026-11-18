@@ -1,10 +1,9 @@
 # Hi, I'm Sai Dheeraj Gollu
 
-Software engineer in San Jose, CA. I work on backend systems and applied AI.
-
-- Software Engineer at Altrion (Python/FastAPI, React/TypeScript)
-- M.S. Software Engineering, San José State University, May 2026
-- Open to full-time Software Engineer / AI Engineer roles (F1 OPT)
+Software engineer in San Jose, CA, working on backend systems and applied AI.\
+M.S. in Software Engineering from San José State University (May 2026).\
+Looking for full-time Software Engineer or AI Engineer roles.\
+On F1 OPT, open to relocation and onsite, hybrid or remote work.
 
 ### Experience
 
@@ -19,9 +18,5 @@ Java/Spring Boot microservices. Cut API response time 30%, fixed a Kafka message
 - [andrewyng/openworker](https://github.com/andrewyng/openworker): 4 merged PRs
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui): accessibility fix (#6741)
 - [yc-software/qm](https://github.com/yc-software/qm): co-author on a Postgres jsonb fix
-
-### Tech
-
-Python · Java · C++ · TypeScript · Go · FastAPI · Spring Boot · Kafka · PostgreSQL · Redis · AWS · GCP · Docker · Kubernetes · LangChain
 
 [LinkedIn](https://linkedin.com/in/sai-dheeraj-gollu) · [Portfolio](https://saidheerajgollu.com) · [Email](mailto:gollusaidheeraj@gmail.com)
