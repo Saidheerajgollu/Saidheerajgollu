@@ -6,11 +6,13 @@ Software engineer in San Jose, CA. I work on backend systems and applied AI.
 - M.S. Software Engineering, San José State University, May 2026
 - Open to full-time Software Engineer / AI Engineer roles (F1 OPT)
 
-### Projects
+### Experience
 
-- **[TSDLite](https://github.com/Saidheerajgollu/tsdlite)**: time-series ingestion engine in C++20. 1.1M points/sec with no data loss under 8x burst load.
-- **Thrilochana**: search and NLP app on the App Store. Hybrid retrieval with BM25 and embeddings.
-- **job-hunter-project**: pulls new roles straight from ATS boards (Greenhouse, Lever, Ashby, Workday).
+**Software Engineer · Altrion** (Jul 2026 – Present, San Jose, CA)
+Fintech backend in Python/FastAPI and React/TypeScript, shipped weekly to AWS. Built the integration layer for 10+ APIs (Plaid, Coinbase, Stripe, Moralis) so one provider outage doesn't take down the pipeline.
+
+**Software Engineer · Aviac Technologies** (Jan 2022 – Dec 2023, India)
+Java/Spring Boot microservices. Cut API response time 30%, fixed a Kafka message-drop bug with idempotent consumers and dead-letter routing, and raised test coverage from 40% to 90%.
 
 ### Open source
 
